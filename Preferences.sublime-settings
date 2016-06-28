@@ -1,0 +1,29 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night-Bright (SL).tmTheme",
+	"detect_indentation": false,
+	"draw_minimap_border": true,
+	"font_size": 15,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 4,
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		79
+	],
+	"scroll_past_end": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
