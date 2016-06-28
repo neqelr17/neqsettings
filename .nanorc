@@ -1,0 +1,42 @@
+set const
+unset autoindent
+#set backup
+set backupdir "/home/rr131490/nanbacks/"
+set tabsize 4
+set tabstospaces
+set smooth
+set regexp
+
+
+## Nanorc files
+#include "/usr/share/nano/nanorc.nanorc"
+
+#include "/home/rr131490/.nanrc/asm.nanorc"
+#include "/home/rr131490/.nanrc/awk.nanorc"
+#include "/home/rr131490/.nanrc/c.nanorc"
+#include "/home/rr131490/.nanrc/cmake.nanorc"
+#include "/home/rr131490/.nanrc/css.nanorc"
+#include "/home/rr131490/.nanrc/debian.nanorc"
+#include "/home/rr131490/.nanrc/fortran.nanorc"
+#include "/home/rr131490/.nanrc/gentoo.nanorc"
+#include "/home/rr131490/.nanrc/groff.nanorc"
+#include "/home/rr131490/.nanrc/html.nanorc"
+#include "/home/rr131490/.nanrc/java.nanorc"
+#include "/home/rr131490/.nanrc/makefile.nanorc"
+#include "/home/rr131490/.nanrc/man.nanorc"
+#include "/home/rr131490/.nanrc/mgp.nanorc"
+#include "/home/rr131490/.nanrc/mutt.nanorc"
+#include "/home/rr131490/.nanrc/nano-menu.xpm"
+#include "/home/rr131490/.nanrc/nanorc.nanorc"
+#include "/home/rr131490/.nanrc/objc.nanorc"
+#include "/home/rr131490/.nanrc/ocaml.nanorc"
+#include "/home/rr131490/.nanrc/patch.nanorc"
+#include "/home/rr131490/.nanrc/perl.nanorc"
+#include "/home/rr131490/.nanrc/php.nanorc"
+#include "/home/rr131490/.nanrc/pov.nanorc"
+#include "/home/rr131490/.nanrc/python.nanorc"
+#include "/home/rr131490/.nanrc/ruby.nanorc"
+#include "/home/rr131490/.nanrc/sh.nanorc"
+#include "/home/rr131490/.nanrc/tcl.nanorc"
+#include "/home/rr131490/.nanrc/tex.nanorc"
+#include "/home/rr131490/.nanrc/xml.nanorc"
